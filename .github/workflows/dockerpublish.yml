@@ -13,6 +13,8 @@ on:
   pull_request:
     branches:
       - master
+    types:
+      - opened
 
 env:
   GITHUB_ORG_AND_REPO: "${{ github.repository }}"
