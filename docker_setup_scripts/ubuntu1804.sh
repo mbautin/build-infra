@@ -23,6 +23,7 @@ packages=(
     libreadline-dev
     libssl-dev
     libtool
+    libunwind-dev
     locales
     maven
     openjdk-8-jdk-headless
